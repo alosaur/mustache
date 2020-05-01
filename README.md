@@ -7,6 +7,8 @@
 ### How to use renderer in Alosaur
 
 ```ts
+import { renderFile } from 'https://raw.githubusercontent.com/alosaur/mustache/v0.1.0/mod.ts';
+
 app.useViewRender({
     type: 'mustache',
     basePath: `${Deno.cwd()}/views/`, // path to folder views
