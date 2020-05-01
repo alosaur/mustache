@@ -1,5 +1,9 @@
 ## Mustache template render
 
+[mustache.js](https://github.com/janl/mustache.js)
+
+![test](https://github.com/alosaur/mustache/workflows/test/badge.svg)
+
 ### How to use renderer in Alosaur
 
 ```ts
